@@ -2,6 +2,7 @@
 # Code King Academy - Frontend Development Courses
 
 Welcome to Code King Academy, your go-to resource for comprehensive frontend development tutorials. Whether you’re a beginner looking to get started or an experienced developer aiming to enhance your skills, our courses are designed to provide you with the knowledge and tools you need to succeed in the world of web development.
+<img src="https://github.com/user-attachments/assets/9379bb5c-5736-452d-8733-b15746bb8a76" alt="Code King Academy Youtube Channel" />
 
 1. [devlog](https://jkng-96.gitbook.io/devlog)
 2. [youtube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
